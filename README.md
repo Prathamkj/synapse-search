@@ -1,5 +1,5 @@
 # Synapse Search
-
+https://synapse-search.vercel.app/results?q=cat&type=aichat
 AI-Powered Web Search
 
 ## Features
